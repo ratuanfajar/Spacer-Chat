@@ -1,0 +1,25 @@
+# Environment variables (contains API keys & credentials)
+.env
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folder (may contain large/private documents)
+data/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

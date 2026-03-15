@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Apa yang dimaksud dengan machine learning dalam konteks penambangan data?",
+    "contexts": [
+      "Machine learning adalah sekumpulan metode yang dapat secara otomatis mendeteksi pola pada data dan menggunakannya untuk menguak pola untuk memprediksi data di masa depan atau untuk melakukan bentuk pengambilan keputusan di dalam kondisi yang tidak menentu[cite: 4]."
+    ],
+    "ground_truth": "Machine learning adalah sekumpulan metode yang secara otomatis mendeteksi pola pada data, kemudian menggunakan pola tersebut untuk memprediksi data di masa depan atau mengambil keputusan dalam kondisi yang tidak menentu[cite: 4]."
+  },
+  {
+    "question": "Sebutkan dua jenis utama metode learning pada data mining dan jelaskan perbedaannya dari segi penggunaan data!",
+    "contexts": [
+      "Terdapat 2 jenis metode learning pada data mining: Supervised learning, Unsupervised learning[cite: 5, 6, 7].",
+      "Merupakan pendekatan machine learning yang ditentukan oleh penggunaan kumpulan menggunakan data yang berlabel[cite: 11].",
+      "Merupakan pendekatan machine learning yang melakukan pelatihan model pada data yang tidak berlabel[cite: 80]."
+    ],
+    "ground_truth": "Dua jenis metode utama adalah supervised learning dan unsupervised learning[cite: 5, 6, 7]. Perbedaannya terletak pada datanya; supervised learning menggunakan kumpulan data yang berlabel [cite: 11], sedangkan unsupervised learning melatih model menggunakan data yang tidak berlabel[cite: 80]."
+  },
+  {
+    "question": "Apa yang dimaksud dengan metode klasifikasi dalam supervised learning?",
+    "contexts": [
+      "Metode supervised learning yang digunakan untuk mengekstraksi pengetahuan berupa nilai yang berbentuk label kelas dari sebuah atribut/variable berdasarkan nilai dari atribut/variable lain[cite: 43]."
+    ],
+    "ground_truth": "Klasifikasi adalah metode supervised learning yang bertujuan untuk mengekstraksi pengetahuan untuk memprediksi nilai berbentuk label kelas dari sebuah atribut berdasarkan nilai dari atribut atau variabel lainnya[cite: 43]."
+  },
+  {
+    "question": "Bagaimana ide dasar dari metode regresi dalam supervised learning?",
+    "contexts": [
+      "Metode supervised learning untuk memprediksi nilai kontinu. Ide dasarnya adalah mengkuantifikasi hubungan matematika di antara satu atau lebih independent variable (predictor) dengan dependent variable (target)[cite: 66, 67]."
+    ],
+    "ground_truth": "Ide dasar regresi adalah memprediksi nilai kontinu dengan cara mengkuantifikasi hubungan matematika antara satu atau lebih variabel independen (sebagai prediktor) dengan variabel dependen (sebagai target)[cite: 66, 67]."
+  },
+  {
+    "question": "Jelaskan apa fungsi dari metode clustering pada unsupervised learning!",
+    "contexts": [
+      "Metode unsupervised learning yang digunakan untuk mengelompokkan data ke dalam sejumlah kelompok berdasarkan kesamaan karakteristik masing-masing data pada kelompok-kelopok yang ada[cite: 93, 94]."
+    ],
+    "ground_truth": "Clustering adalah metode unsupervised learning yang berfungsi untuk mengelompokkan data ke dalam sejumlah kelompok berdasarkan kesamaan karakteristik yang dimiliki oleh masing-masing data tersebut[cite: 93, 94]."
+  },
+  {
+    "question": "Apa definisi dari Business Intelligence (BI) menurut dokumen tersebut?",
+    "contexts": [
+      "Business Intelligence adalah sebuah proses bisnis berbasis teknologi yang dibuat secara khusus agar dapat menganalisa data bisnis serta menyajikan data tersebut sebagai bentuk informasi yang mudah dipahami dan memiliki data yang akurat sehingga kita bisa membuat keputusan bisnis yang lebih baik. [cite: 261]",
+      "Business Intelligence (BI) adalah sebuah istilah umum yang mengkombinasikan berbagai arsitektur, teknik, analytical tools, aplikasi, dan metodologi yang memungkinkan kemudahan akses terhadap data untuk membantu manajer melakukan analisis bisnis [cite: 262]"
+    ],
+    "ground_truth": "Business Intelligence (BI) adalah proses bisnis berbasis teknologi atau istilah umum yang menggabungkan berbagai arsitektur, teknik, aplikasi, dan metodologi untuk menganalisis data[cite: 261, 262]. Hasil analisis ini disajikan menjadi informasi yang akurat dan mudah dipahami, sehingga manajer dapat membuat keputusan bisnis yang lebih baik[cite: 261, 262]."
+  },
+  {
+    "question": "Sebutkan 4 komponen utama yang menyusun Arsitektur Tingkat Tinggi Business Intelligence!",
+    "contexts": [
+      "Data Warehouse, yang merupakan sumber data dari BI [cite: 396]",
+      "Business Analytics, dengan kumpulan tools untuk manipulasi, mining, dan menganalisis data dari data warehouse [cite: 397]",
+      "Business Performance Management (BPM), digunakan untuk monitoring dan menganalisis performa bisnis [cite: 400, 401]",
+      "User Interface, untuk menyampaikan informasi pada pengguna (contoh: dashboard) [cite: 402]"
+    ],
+    "ground_truth": "Empat komponen utama dalam Arsitektur Tingkat Tinggi BI adalah: 1) Data Warehouse sebagai sumber data BI[cite: 396]. 2) Business Analytics yang berisi kumpulan alat untuk memanipulasi dan menganalisis data[cite: 397]. 3) Business Performance Management (BPM) untuk memonitor dan menganalisis performa bisnis[cite: 400, 401]. 4) User Interface (seperti dashboard) untuk menyampaikan visualisasi informasi kepada pengguna[cite: 402]."
+  },
+  {
+    "question": "Sebutkan dan jelaskan 3 tipe Business Analytics beserta pertanyaan mendasar yang dijawab oleh masing-masing tipe!",
+    "contexts": [
+      "Descriptive [cite: 556]",
+      "What happened? What is happening? [cite: 560]",
+      "Predictive [cite: 558]",
+      "What will happen? Why will it happen? [cite: 566]",
+      "Prescriptive [cite: 559]",
+      "What should I do? Why should I do it? [cite: 574]"
+    ],
+    "ground_truth": "Tiga tipe Business Analytics terdiri dari: 1) Descriptive Analytics, yang menjawab pertanyaan 'What happened?' dan 'What is happening?'[cite: 556, 560]. 2) Predictive Analytics, yang fokus menjawab 'What will happen?' dan 'Why will it happen?'[cite: 558, 566]. 3) Prescriptive Analytics, yang memberikan arahan dengan menjawab 'What should I do?' dan 'Why should I do it?'[cite: 559, 574]."
+  },
+  {
+    "question": "Apa yang dimaksud dengan Dashboard dalam ekosistem Business Intelligence?",
+    "contexts": [
+      "User Interface dapat berupa dashboard atau tools lain untuk visualisasi informasi. [cite: 470]",
+      "Dashboard merupakan sebuah tampilan komprehensif dari pengukuran performa organisasi, atau disebut Key Performance Indicators (KPI) [cite: 471]"
+    ],
+    "ground_truth": "Dashboard adalah salah satu bentuk User Interface yang menyajikan tampilan komprehensif dari pengukuran performa organisasi atau Key Performance Indicators (KPI) untuk keperluan visualisasi informasi[cite: 470, 471]."
+  },
+  {
+    "question": "Bagaimana penerapan Business Intelligence dapat membuat proses pengambilan keputusan menjadi lebih cepat (Faster decision making) di sebuah perusahaan?",
+    "contexts": [
+      "Pengambilan keputusan lebih cepat / Faster decision making: BI mengurangi waktu perusahaan harus kehilangan pelanggan, pendapatan, atau berurusan dengan informasi yang tidak akurat atau proses yang lambat. [cite: 540]",
+      "Sangat penting dalam mendapatkan keunggulan kompetitif bagi perusahaan untuk membuat keputusan yang lebih cepat dan akurat dengan memanfaatkan data yang ada pada visualisasi yang tepat, dan meningkatkan pengambilan keputusan. [cite: 541]"
+    ],
+    "ground_truth": "Business Intelligence mempercepat pengambilan keputusan dengan cara mengurangi waktu yang terbuang akibat proses yang lambat atau berurusan dengan informasi yang tidak akurat[cite: 540]. Dengan menyajikan data melalui visualisasi yang tepat, perusahaan mampu membuat keputusan yang lebih cepat dan akurat untuk memenangkan persaingan bisnis[cite: 541]."
+  },
+  {
+    "question": "Jelaskan apa yang dimaksud dengan model Client-Server pada internet/web!",
+    "contexts": [
+      "Model Client- Server adalah model umum dari internet/web: client meminta layanan/informssi dari server kemudian server memproses pemintaan dan merespon client"
+    ],
+    "ground_truth": "Model Client-Server adalah arsitektur umum pada internet di mana client mengajukan permintaan layanan atau informasi kepada server, lalu server akan memproses permintaan tersebut dan mengirimkan respons kembali ke client[cite: 691, 692, 693, 694]."
+  },
+  {
+    "question": "Sebutkan perbedaan antara data dinamis dan data statis dalam konteks pemanfaatan data di internet, berikan masing-masing contohnya!",
+    "contexts": [
+      "Data dinamis VS statis: Data dinamis adalah data yang sering berubah, contohnya media social, stok barang, berita. Data stafis adalah data yang setelah dipublikasikan jarang berubah, contohnya buku, artikel"
+    ],
+    "ground_truth": "Data dinamis merupakan jenis data yang sering mengalami perubahan, misalnya data dari media sosial, stok barang, atau berita[cite: 705]. Sebaliknya, data statis adalah data yang jarang sekali berubah setelah dipublikasikan, contohnya seperti buku dan artikel ilmiah[cite: 706]."
+  },
+  {
+    "question": "Apa fungsi utama dari pemrograman client side dan sebutkan bahasa pemrograman yang umum digunakan!",
+    "contexts": [
+      "Fungsi pemrograman client side adalah interaksi langsung dengan pengguna, digunakan untuk memanipulasi document, animasi gambar, validasi input, membuat UI dinamis dan pengambilan data dari server untuk ditampilkan",
+      "Bahasa yang digunkan : HTML.CSS, JavaScript, Web API, WebSockets"
+    ],
+    "ground_truth": "Fungsi utama dari pemrograman client side adalah memfasilitasi interaksi langsung dengan pengguna. Ini mencakup manipulasi dokumen, pembuatan animasi, validasi input, pembuatan UI yang dinamis, serta pengambilan dan penampilan data dari server[cite: 742]. Bahasa pemrograman yang umum digunakan meliputi HTML, CSS, JavaScript, Web API, dan WebSockets[cite: 743]."
+  },
+  {
+    "question": "Dalam konteks konektivitas sosial selama pandemi, bagaimana internet berperan menurut studi 'Online Learning during the Pandemic in Indonesia'?",
+    "contexts": [
+      "Internet memungkinkan tetap terhubung antar teman, komunitas, dukungan saat pandemi atau isolasi fisik.",
+      "Studi \"Online Learning during the Pandemic in Indonesia\" menggambarkan bagaimana siswa menggunakan internet tidak hanya untuk belajar tapi juga untuk tetap terhubung sosial selama kebijakan pembatasan fisik"
+    ],
+    "ground_truth": "Internet sangat penting untuk menjaga konektivitas sosial, memungkinkan individu tetap terhubung dengan teman dan komunitas serta mendapatkan dukungan psikologis selama masa isolasi[cite: 873]. Studi 'Online Learning during the Pandemic in Indonesia' menunjukkan bahwa siswa memanfaatkan internet tidak hanya untuk keperluan akademis (belajar), tetapi juga sebagai sarana krusial untuk mempertahankan hubungan sosial di tengah kebijakan pembatasan fisik[cite: 873]."
+  },
+  {
+    "question": "Sebutkan 3 dampak besar perusahaan digital bagi Indonesia berdasarkan materi tersebut!",
+    "contexts": [
+      "Ekonomi, menarik investasi asing ke Indonesia",
+      "Lapangan Kerja, memberikan pelung kerja baru",
+      "Inklusi keuangan, memperkenalkan dompet digital dan layanan fintech yang membantu Masyarakat tanpa akses formal"
+    ],
+    "ground_truth": "Tiga dampak besar perusahaan digital di Indonesia adalah: 1) Di sektor Ekonomi, perusahaan digital berhasil menarik investasi asing masuk ke Indonesia[cite: 879]. 2) Terkait Lapangan Kerja, mereka membuka dan memberikan peluang kerja baru bagi masyarakat[cite: 880]. 3) Mendorong Inklusi keuangan dengan memperkenalkan dompet digital dan layanan fintech, yang sangat membantu masyarakat yang sebelumnya tidak memiliki akses ke layanan keuangan formal[cite: 881]."
+  }
+]
